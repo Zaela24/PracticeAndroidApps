@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Zaela Rose</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">Hello! My name is Zaela\n
+        \nI guess it doesn\'t really matter what I put in here…
+        \n\nI like cats, big and small.
+        \nMy favorite type of cat are Canadian Lynx.
+        \nI like their big fluffy paws and the little tufts on their ears.
+        \n\nI have a pet cat named Tiger.
+        \nI named her when I was 11, so forgive the lack of creativity there.
+        \nShe\'s a brown tabby.
+        \nShe follows me everywhere but she doesn\'t like other people.
+        \n\nOther people\'s cat also like me.\nSo do other people\'s dogs.
+        \nBut I had bad experiences with dogs when I was young so I don\'t like them very much…
+        \n\nI think people that don\'t like cats are just expecting cats to act like dogs,
+        but get upset when cats act like cats instead.
+        \nThey\'re fluffy friendly fur balls that happily vibrate and like to cuddle,
+        it\'s hard not to like.
+        \n\nWell that\'s probably enough text to demonstrate I can make a ScrollView work.\n
+    </string>
+    <string name="nickname_hint">What is your nickname?</string>
+    <string name="done_button">Done</string>
+</resources>
